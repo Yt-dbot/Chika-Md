@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @daff
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
@@ -22,13 +22,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281321468439','6281321468439','6281321468439'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281321468439','6281280844980','6282125674563'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6281321468439'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6281321468439' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'BgDaff' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'BgDaff' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'BotBgDaff' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'BgDaff' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,8 +41,8 @@ global.email = 'Gda'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '©BotBgDaff' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'BgDaff' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
